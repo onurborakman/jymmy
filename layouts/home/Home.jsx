@@ -7,7 +7,7 @@ const Home = props => {
 
     return (
         <>
-            <Text>Hi</Text>
+            <Text>Hello World</Text>
             <Button title={'hello'}/>
         </>
     );
